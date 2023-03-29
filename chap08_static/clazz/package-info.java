@@ -1,0 +1,1 @@
+package chap08_static.clazz;
